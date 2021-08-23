@@ -3,7 +3,6 @@
     <title>GitHub API XQuery Library</title>
     <dependency processor="http://exist-db.org" semver-min="3.5.0"/>
     <dependency package="http://expath.org/ns/crypto"/>
-    <dependency package="http://expath.org/ns/http-client"/>
     <xquery>
         <namespace>http://exist-db.org/lib/githubxq</namespace>
         <file>githubxq.xql</file>
